@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Nav/Other/Close</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="24 9.29918456 22.7008154 8 16 14.7008154 9.29918456 8 8 9.29918456 14.7008154 16 8 22.7008154 9.29918456 24 16 17.3001034 22.7008154 24 24 22.7008154 17.2991846 16"></polygon>
+    </defs>
+    <g id="Latest" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-8.000000, -8.000000)">
+            <g id="Nav/Other/Close">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Icon" fill="#333333" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <g id="Grey-scale/Grey/#333333" mask="url(#mask-2)" fill="#333333" fill-rule="evenodd">
+                    <rect id="color" x="0" y="0" width="32" height="32"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
